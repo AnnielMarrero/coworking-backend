@@ -231,7 +231,7 @@ namespace coworking.Controllers
         public async Task<IActionResult> HandleLogin( UserLoginDto userDto)
         {
             var user = await _UserService
-                .FirstOrDefaultAsync(u => u.Email == userDto.Email);
+                .FirstOrDefaultAsync(u => u.Email == userDto.Email, _ => _.Rol);
 
             if (user == null || !BCrypt.Net.BCrypt.Verify(userDto.Password, user.Password))
             {

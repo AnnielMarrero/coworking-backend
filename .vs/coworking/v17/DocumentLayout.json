@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Anniel\\source\\repos\\coworking\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\domain\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\domain\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -19,24 +31,12 @@
       "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\coworking.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\iocregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\iocregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\dtos\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\dtos\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\domain\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\domain\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\domain\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -390,34 +390,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\README.md",
-              "RelativeDocumentMoniker": "coworking\\README.md",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\README.md",
-              "RelativeToolTip": "coworking\\README.md",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAAEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-01-14T15:58:23.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "coworking.Test",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\coworking.Test.csproj",
-              "RelativeDocumentMoniker": "coworking.Test\\coworking.Test.csproj",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\coworking.Test.csproj",
-              "RelativeToolTip": "coworking.Test\\coworking.Test.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-14T14:49:54.786Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -428,15 +402,40 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\README.md",
+              "RelativeDocumentMoniker": "coworking\\README.md",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\README.md",
+              "RelativeToolTip": "coworking\\README.md",
+              "ViewState": "AQIAADoAAAAAAAAAAAAuwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-14T15:58:23.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "coworking.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\coworking.Test.csproj",
+              "RelativeDocumentMoniker": "coworking.Test\\coworking.Test.csproj",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\coworking.Test.csproj",
+              "RelativeToolTip": "coworking.Test\\coworking.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T14:49:54.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "coworking.csproj",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\coworking.csproj",
               "RelativeDocumentMoniker": "coworking\\coworking.csproj",
@@ -444,18 +443,17 @@
               "RelativeToolTip": "coworking\\coworking.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-13T13:00:15.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:00:15.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ReservationsController.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\ReservationsController.cs",
               "RelativeDocumentMoniker": "coworking\\Controllers\\ReservationsController.cs",
               "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\ReservationsController.cs",
               "RelativeToolTip": "coworking\\Controllers\\ReservationsController.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAkwGgAAAAtAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAkwGgAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T14:23:23.17Z",
               "EditorCaption": ""
@@ -470,18 +468,17 @@
               "RelativeToolTip": "coworking\\Controllers\\RoomsController.cs",
               "ViewState": "AQIAAMAAAAAAAAAAAAAowM4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:06:33.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:06:33.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "coworking\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\UsersController.cs",
               "RelativeToolTip": "coworking\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAANAAAAAgAAAA",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAEwPUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T19:33:16.157Z",
               "EditorCaption": ""
@@ -496,25 +493,24 @@
               "RelativeToolTip": "coworking\\Domain\\Services\\Base\\BaseService.cs",
               "ViewState": "AQIAAE8AAAAAAAAAAAAgwFwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:57:02.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:57:02.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "JwtUtils.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\JwtUtils.cs",
               "RelativeDocumentMoniker": "coworking\\Domain\\JwtUtils.cs",
               "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\JwtUtils.cs",
               "RelativeToolTip": "coworking\\Domain\\JwtUtils.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABsAAAAFAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T20:30:43.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IocRegister.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\IocRegister.cs",
               "RelativeDocumentMoniker": "coworking\\IocRegister.cs",
@@ -522,12 +518,11 @@
               "RelativeToolTip": "coworking\\IocRegister.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAqwFYAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:50:40.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T14:50:40.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "coworking.http",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\coworking.http",
               "RelativeDocumentMoniker": "coworking\\coworking.http",
@@ -535,8 +530,7 @@
               "RelativeToolTip": "coworking\\coworking.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-13T19:16:56.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:16:56.03Z"
             },
             {
               "$type": "Document",
@@ -548,12 +542,11 @@
               "RelativeToolTip": "coworking\\Controllers\\RolsController.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAgwCYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:10:43.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:10:43.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Rol.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Rol.cs",
@@ -561,8 +554,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Rol.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T21:41:54.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T21:41:54.059Z"
             },
             {
               "$type": "Document",
@@ -574,8 +566,7 @@
               "RelativeToolTip": "coworking.Test\\Controllers\\ReservationsControllerTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T14:48:15.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T14:48:15.191Z"
             },
             {
               "$type": "Document",
@@ -587,8 +578,7 @@
               "RelativeToolTip": "coworking.Test\\Controllers\\RoomsControllerTest.cs",
               "ViewState": "AQIAAG8AAAAAAAAAAAAAADUAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:34:42.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:34:42.182Z"
             },
             {
               "$type": "Document",
@@ -600,8 +590,7 @@
               "RelativeToolTip": "coworking.Test\\Controllers\\UnitsControllerTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T14:08:54.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T14:08:54.203Z"
             },
             {
               "$type": "Document",
@@ -613,8 +602,7 @@
               "RelativeToolTip": "coworking.Test\\Controllers\\EventsControllerTest.cs",
               "ViewState": "AQIAAEIBAAAAAAAAAAAIwGIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T14:08:19.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T14:08:19.49Z"
             },
             {
               "$type": "Document",
@@ -626,16 +614,7 @@
               "RelativeToolTip": "coworking.Test\\Services\\ReservationServiceTest.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAgwCoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:56:30.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+              "WhenOpened": "2025-01-14T13:56:30.094Z"
             },
             {
               "$type": "Document",
@@ -647,8 +626,7 @@
               "RelativeToolTip": "coworking\\Data\\CoworkingManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:11:09.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:11:09.339Z"
             },
             {
               "$type": "Document",
@@ -660,8 +638,7 @@
               "RelativeToolTip": "coworking.Test\\Helpers\\CoworkingDbMock.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:36:47.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:36:47.792Z"
             },
             {
               "$type": "Document",
@@ -673,8 +650,7 @@
               "RelativeToolTip": "coworking.Test\\Services\\RoomServiceTest.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAgwDQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:56:49.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:56:49.157Z"
             },
             {
               "$type": "Document",
@@ -686,8 +662,7 @@
               "RelativeToolTip": "coworking\\Domain\\Services\\ReservationService.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:58:58.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:58:58.481Z"
             },
             {
               "$type": "Document",
@@ -699,8 +674,7 @@
               "RelativeToolTip": "coworking\\Domain\\Services\\UserService.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAABsAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:32:03.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:32:03.19Z"
             },
             {
               "$type": "Document",
@@ -712,8 +686,7 @@
               "RelativeToolTip": "coworking\\Domain\\Services\\RoomService.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAABsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:58:14.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:58:14.154Z"
             },
             {
               "$type": "Document",
@@ -725,8 +698,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Interfaces\\Base\\IBaseRepository.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAiwD8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:35:16.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:35:16.633Z"
             },
             {
               "$type": "Document",
@@ -738,8 +710,7 @@
               "RelativeToolTip": "coworking.Test\\Helpers\\UnitOfWorkMock.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:37:16.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:37:16.71Z"
             },
             {
               "$type": "Document",
@@ -751,8 +722,7 @@
               "RelativeToolTip": "coworking.Test\\Helpers\\BaseTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:36:55.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:36:55.161Z"
             },
             {
               "$type": "Document",
@@ -764,8 +734,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Repositories\\Base\\UnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:39:31.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:39:31.338Z"
             },
             {
               "$type": "Document",
@@ -777,8 +746,7 @@
               "RelativeToolTip": "coworking.Test\\Usings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:33:31.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:33:31.256Z"
             },
             {
               "$type": "Document",
@@ -790,8 +758,7 @@
               "RelativeToolTip": "coworking.Test\\test.runsettings",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-14T13:34:50.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:34:50.523Z"
             },
             {
               "$type": "Document",
@@ -803,8 +770,7 @@
               "RelativeToolTip": "coworking.Test\\Validators\\EditBrandValidatorTest.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAgwDkAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:35:23.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:35:23.608Z"
             },
             {
               "$type": "Document",
@@ -816,8 +782,7 @@
               "RelativeToolTip": "coworking.Test\\Validators\\AddEventValidatorTest.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAowFEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:35:06.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:35:06.086Z"
             },
             {
               "$type": "Document",
@@ -829,8 +794,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Policies.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T21:40:49.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T21:40:49.74Z"
             },
             {
               "$type": "Document",
@@ -842,8 +806,7 @@
               "RelativeToolTip": "coworking\\Dtos\\RolDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:18:53.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:18:53.353Z"
             },
             {
               "$type": "Document",
@@ -855,8 +818,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Users\\UserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:34:18.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:34:18.778Z"
             },
             {
               "$type": "Document",
@@ -868,8 +830,7 @@
               "RelativeToolTip": "coworking\\Mapper\\Profiles\\UserMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:13:24.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T20:13:24.583Z"
             },
             {
               "$type": "Document",
@@ -881,8 +842,7 @@
               "RelativeToolTip": "coworking\\Migrations\\20250113212036_RolFixed.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T21:20:36.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T21:20:36.757Z"
             },
             {
               "$type": "Document",
@@ -894,8 +854,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Repositories\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T21:24:38.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T21:24:38.812Z"
             },
             {
               "$type": "Document",
@@ -907,8 +866,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Interfaces\\Base\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:36:05.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:36:05.419Z"
             },
             {
               "$type": "Document",
@@ -920,8 +878,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Users\\CreateUserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:35:03.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:35:03.003Z"
             },
             {
               "$type": "Document",
@@ -933,8 +890,7 @@
               "RelativeToolTip": "coworking\\Entities\\RefreshToken.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:33:50.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T20:33:50.121Z"
             },
             {
               "$type": "Document",
@@ -946,8 +902,7 @@
               "RelativeToolTip": "coworking\\Entities\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:01:39.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:01:39.994Z"
             },
             {
               "$type": "Document",
@@ -959,8 +914,7 @@
               "RelativeToolTip": "coworking\\Entities\\Rol.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:02:24.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:02:24.589Z"
             },
             {
               "$type": "Document",
@@ -972,8 +926,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Users\\EditUserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:35:20.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:35:20.195Z"
             },
             {
               "$type": "Document",
@@ -985,8 +938,7 @@
               "RelativeToolTip": "coworking\\Migrations\\20250113205728_RefreshToken.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:57:28.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T20:57:28.825Z"
             },
             {
               "$type": "Document",
@@ -998,8 +950,7 @@
               "RelativeToolTip": "coworking\\Helpers\\AppSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:32:01.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T20:32:01.299Z"
             },
             {
               "$type": "Document",
@@ -1011,8 +962,7 @@
               "RelativeToolTip": "coworking\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-13T13:23:35.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:23:35.6Z"
             },
             {
               "$type": "Document",
@@ -1024,8 +974,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Interfaces\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:29:30.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:29:30.219Z"
             },
             {
               "$type": "Document",
@@ -1037,8 +986,7 @@
               "RelativeToolTip": "coworking\\Domain\\Interfaces\\IRolService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:12:41.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:12:41.418Z"
             },
             {
               "$type": "Document",
@@ -1050,8 +998,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Users\\UserLoginDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:24:46.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T20:24:46.658Z"
             },
             {
               "$type": "Document",
@@ -1063,8 +1010,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Interfaces\\IRefreshTokenRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:36:05.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T20:36:05.401Z"
             },
             {
               "$type": "Document",
@@ -1076,8 +1022,7 @@
               "RelativeToolTip": "coworking\\Migrations\\20250113204401_userEmailUnique.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:44:02.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T20:44:02.027Z"
             },
             {
               "$type": "Document",
@@ -1089,8 +1034,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Repositories\\RefreshTokenRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:36:30.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T20:36:30.9Z"
             },
             {
               "$type": "Document",
@@ -1102,8 +1046,7 @@
               "RelativeToolTip": "coworking\\Entities\\BasicEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:09:14.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:09:14.328Z"
             },
             {
               "$type": "Document",
@@ -1115,8 +1058,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Reservations\\EditReservationDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:54:07.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:54:07.483Z"
             },
             {
               "$type": "Document",
@@ -1128,8 +1070,7 @@
               "RelativeToolTip": "coworking\\Mapper\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAywA4AAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:09:01.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T14:09:01.253Z"
             },
             {
               "$type": "Document",
@@ -1141,8 +1082,7 @@
               "RelativeToolTip": "coworking\\Mapper\\Profiles\\RoomMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:10:26.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T14:10:26.879Z"
             },
             {
               "$type": "Document",
@@ -1154,8 +1094,7 @@
               "RelativeToolTip": "coworking\\Domain\\Interfaces\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:31:48.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:31:48.022Z"
             },
             {
               "$type": "Document",
@@ -1167,8 +1106,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Repositories\\RoomRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:42:35.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:42:35.832Z"
             },
             {
               "$type": "Document",
@@ -1180,8 +1118,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Rooms\\CreateRoomDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:53:06.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:53:06.797Z"
             },
             {
               "$type": "Document",
@@ -1193,8 +1130,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Rooms\\RoomDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:49:20.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:49:20.525Z"
             },
             {
               "$type": "Document",
@@ -1206,8 +1142,7 @@
               "RelativeToolTip": "coworking\\Program.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAYwCcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T12:59:10.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T12:59:10.818Z"
             },
             {
               "$type": "Document",
@@ -1219,8 +1154,7 @@
               "RelativeToolTip": "coworking\\Data\\DataSeeder.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAYwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:16:31.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:16:31.839Z"
             },
             {
               "$type": "Document",
@@ -1232,8 +1166,7 @@
               "RelativeToolTip": "coworking\\Domain\\Interfaces\\IRoomService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:56:20.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:56:20.771Z"
             },
             {
               "$type": "Document",
@@ -1245,8 +1178,7 @@
               "RelativeToolTip": "coworking\\Domain\\Services\\RolService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIBMwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:13:17.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:13:17.168Z"
             },
             {
               "$type": "Document",
@@ -1258,8 +1190,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Interfaces\\IRoomRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:37:22.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:37:22.819Z"
             },
             {
               "$type": "Document",
@@ -1271,8 +1202,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Interfaces\\IRolRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:14:22.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:14:22.9Z"
             },
             {
               "$type": "Document",
@@ -1284,8 +1214,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Repositories\\RolRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:15:24.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:15:24.896Z"
             },
             {
               "$type": "Document",
@@ -1297,8 +1226,7 @@
               "RelativeToolTip": "coworking\\Mapper\\Profiles\\RolMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:20:02.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:20:02.29Z"
             },
             {
               "$type": "Document",
@@ -1310,8 +1238,7 @@
               "RelativeToolTip": "coworking\\Migrations\\20250113190539_users.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:05:39.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:05:39.869Z"
             },
             {
               "$type": "Document",
@@ -1323,8 +1250,7 @@
               "RelativeToolTip": "coworking\\Mapper\\Profiles\\ReservationMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:11:29.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T14:11:29.184Z"
             },
             {
               "$type": "Document",
@@ -1336,8 +1262,7 @@
               "RelativeToolTip": "coworking\\Dtos\\RoomPagedInputDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T18:27:07.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T18:27:07.599Z"
             },
             {
               "$type": "Document",
@@ -1349,8 +1274,7 @@
               "RelativeToolTip": "coworking\\Entities\\Room.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:00:50.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:00:50.376Z"
             },
             {
               "$type": "Document",
@@ -1362,8 +1286,7 @@
               "RelativeToolTip": "coworking\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-13T18:41:41.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T18:41:41.458Z"
             },
             {
               "$type": "Document",
@@ -1375,8 +1298,7 @@
               "RelativeToolTip": "coworking\\Entities\\Reservation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:03:44.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:03:44.116Z"
             },
             {
               "$type": "Document",
@@ -1388,8 +1310,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Rooms\\EditRoomDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:52:31.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:52:31.471Z"
             },
             {
               "$type": "Document",
@@ -1401,8 +1322,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Reservations\\ReservationDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:51:18.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:51:18.911Z"
             },
             {
               "$type": "Document",
@@ -1414,8 +1334,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Reservations\\CreateReservationDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:53:41.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:53:41.268Z"
             },
             {
               "$type": "Document",
@@ -1427,8 +1346,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Base\\EntityBaseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:48:11.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:48:11.294Z"
             },
             {
               "$type": "Document",
@@ -1440,8 +1358,7 @@
               "RelativeToolTip": "coworking\\Domain\\Interfaces\\Base\\IBaseService.cs",
               "ViewState": "AQIAABcAAAAAAAAAAIA2wCYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:46:27.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:46:27.648Z"
             },
             {
               "$type": "Document",
@@ -1453,8 +1370,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Base\\PagedListInputDto.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAADwvwsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:48:36.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:48:36.138Z"
             },
             {
               "$type": "Document",
@@ -1466,8 +1382,7 @@
               "RelativeToolTip": "coworking\\Validators\\EditRoomValid.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBMwA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T15:47:00.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T15:47:00.132Z"
             },
             {
               "$type": "Document",
@@ -1479,8 +1394,7 @@
               "RelativeToolTip": "coworking\\Validators\\EditReservationValid.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAYwCAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T15:47:57.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T15:47:57.815Z"
             },
             {
               "$type": "Document",
@@ -1492,8 +1406,7 @@
               "RelativeToolTip": "coworking\\Validators\\CreateReservationValid.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAIBMwBcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T15:47:12.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T15:47:12.075Z"
             },
             {
               "$type": "Document",
@@ -1505,8 +1418,7 @@
               "RelativeToolTip": "coworking\\Validators\\CreateRoomValid.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAABSwBcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T15:44:07.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T15:44:07.156Z"
             },
             {
               "$type": "Document",
@@ -1518,8 +1430,7 @@
               "RelativeToolTip": "coworking\\Migrations\\20250113153714_Log.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T15:37:14.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T15:37:14.495Z"
             },
             {
               "$type": "Document",
@@ -1531,8 +1442,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Interfaces\\ILogRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:41:36.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T14:41:36.548Z"
             },
             {
               "$type": "Document",
@@ -1544,8 +1454,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Repositories\\LogRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:43:07.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T14:43:07.254Z"
             },
             {
               "$type": "Document",
@@ -1557,8 +1466,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Repositories\\Base\\BaseRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:38:32.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:38:32.427Z"
             },
             {
               "$type": "Document",
@@ -1570,8 +1478,7 @@
               "RelativeToolTip": "coworking\\Entities\\Log.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:25:27.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T14:25:27.413Z"
             },
             {
               "$type": "Document",
@@ -1583,8 +1490,7 @@
               "RelativeToolTip": "coworking\\Domain\\Interfaces\\IReservationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:56:38.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:56:38.182Z"
             },
             {
               "$type": "Document",
@@ -1596,8 +1502,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Base\\ResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:48:47.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:48:47.422Z"
             },
             {
               "$type": "Document",
@@ -1609,8 +1514,7 @@
               "RelativeToolTip": "coworking\\Dtos\\Base\\PagedResultDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:48:39.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:48:39.786Z"
             },
             {
               "$type": "Document",
@@ -1622,8 +1526,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Repositories\\ReservationRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:45:06.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:45:06.24Z"
             },
             {
               "$type": "Document",
@@ -1635,8 +1538,7 @@
               "RelativeToolTip": "coworking\\UnitOfWork\\Interfaces\\IReservationRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:37:52.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:37:52.152Z"
             },
             {
               "$type": "Document",
@@ -1648,8 +1550,15 @@
               "RelativeToolTip": "coworking\\Migrations\\20250113133208_initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:32:08.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:32:08.42Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
             }
           ]
         }

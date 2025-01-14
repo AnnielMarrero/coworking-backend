@@ -56,7 +56,7 @@ public class JwtUtils : IJwtUtils
             new Claim(ClaimTypes.Sid, user.Id.ToString()),
             new Claim(ClaimTypes.Name, user.UserName),
             new Claim(ClaimTypes.Email, user.Email),
-            new Claim(ClaimTypes.Role, user.RolId.ToString()),
+            new Claim(ClaimTypes.Role, user.Rol.Name.ToString()),
         };
 
         var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_appSettings.Secret));

@@ -102,7 +102,7 @@ namespace coworking.Controllers
         /// <response code="400">Bad Request. Get error message</response>
 
         [HttpPost("[action]")]
-        [Authorize(Roles = "2")] //admin role
+        [Authorize(Roles = "administrador")] //admin role
         public virtual async Task<IActionResult> Create([FromBody] CreateReservationDto createDto)
         {
             try
