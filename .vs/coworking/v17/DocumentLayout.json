@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Anniel\\source\\repos\\coworking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\iocregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\iocregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\dtos\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\dtos\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\coworking.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\coworking.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\coworking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\coworking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\coworking.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\coworking.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\domain\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\domain\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\iocregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\iocregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\dtos\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +39,100 @@
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\unitofwork\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\domain\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\domain\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\controllers\\rolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\controllers\\rolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\controllers\\reservationscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\controllers\\reservationscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\controllers\\roomscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\controllers\\roomscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\controllers\\unitscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\controllers\\unitscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\controllers\\eventscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\controllers\\eventscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\helpers\\coworkingdbmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\helpers\\coworkingdbmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\data\\coworkingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\data\\coworkingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\services\\reservationservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\services\\reservationservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\services\\roomservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\services\\roomservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\domain\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\domain\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\domain\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\domain\\services\\base\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\domain\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\domain\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\domain\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\domain\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\interfaces\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\unitofwork\\interfaces\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\test.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\test.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\helpers\\unitofworkmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\helpers\\unitofworkmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\repositories\\base\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\unitofwork\\repositories\\base\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\helpers\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\helpers\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\validators\\editbrandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\validators\\editbrandvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking.test\\validators\\addeventvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619DC5F5-19BF-486F-B0A0-DB4B220FD979}|coworking.Test\\coworking.Test.csproj|solutionrelative:coworking.test\\validators\\addeventvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\dtos\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\dtos\\policies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\unitofwork\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,16 +151,8 @@
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\dtos\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113212036_RolFixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coworking\\Migrations\\20250113212036_RolFixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\interfaces\\base\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\unitofwork\\interfaces\\base\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\repositories\\base\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\unitofwork\\repositories\\base\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\dtos\\users\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,10 +171,6 @@
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\data\\coworkingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\data\\coworkingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\unitofwork\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -103,24 +179,12 @@
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\domain\\interfaces\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113205728_RefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coworking\\Migrations\\20250113205728_RefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\coworking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\coworking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113204401_userEmailUnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coworking\\Migrations\\20250113204401_userEmailUnique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -159,10 +223,6 @@
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\dtos\\rooms\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -187,16 +247,8 @@
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\controllers\\rolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\controllers\\rolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\mapper\\profiles\\rolmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\mapper\\profiles\\rolmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\coworking.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\coworking.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\repositories\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -209,10 +261,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\domain\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\domain\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113190539_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coworking\\Migrations\\20250113190539_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -275,10 +323,6 @@
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\validators\\createroomvalid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113153714_Log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coworking\\Migrations\\20250113153714_Log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\interfaces\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\unitofwork\\interfaces\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -311,16 +355,32 @@
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\unitofwork\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\interfaces\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\unitofwork\\interfaces\\base\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\unitofwork\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\unitofwork\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113133208_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coworking\\Migrations\\20250113133208_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\migrations\\20250113212036_rolfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\migrations\\20250113212036_rolfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\migrations\\20250113205728_refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\migrations\\20250113205728_refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\migrations\\20250113204401_useremailunique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\migrations\\20250113204401_useremailunique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\migrations\\20250113190539_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\migrations\\20250113190539_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\migrations\\20250113153714_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\migrations\\20250113153714_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|c:\\users\\anniel\\source\\repos\\coworking\\coworking\\migrations\\20250113133208_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EB20C4-ACAD-43CA-8FF9-F5EF40B58437}|coworking\\coworking.csproj|solutionrelative:coworking\\migrations\\20250113133208_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -330,8 +390,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\README.md",
+              "RelativeDocumentMoniker": "coworking\\README.md",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\README.md",
+              "RelativeToolTip": "coworking\\README.md",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-14T15:58:23.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "coworking.Test",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\coworking.Test.csproj",
+              "RelativeDocumentMoniker": "coworking.Test\\coworking.Test.csproj",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\coworking.Test.csproj",
+              "RelativeToolTip": "coworking.Test\\coworking.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T14:49:54.786Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -342,28 +428,400 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "coworking.csproj",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\coworking.csproj",
+              "RelativeDocumentMoniker": "coworking\\coworking.csproj",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\coworking.csproj",
+              "RelativeToolTip": "coworking\\coworking.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T13:00:15.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "coworking\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "coworking\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAkwGgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:23:23.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "coworking\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "coworking\\Controllers\\RoomsController.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAowM4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:06:33.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "coworking\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "coworking\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAANAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:33:16.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\Base\\BaseService.cs",
+              "RelativeDocumentMoniker": "coworking\\Domain\\Services\\Base\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\Base\\BaseService.cs",
+              "RelativeToolTip": "coworking\\Domain\\Services\\Base\\BaseService.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwFwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:57:02.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "coworking\\Domain\\JwtUtils.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\JwtUtils.cs",
+              "RelativeToolTip": "coworking\\Domain\\JwtUtils.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:30:43.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IocRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\IocRegister.cs",
+              "RelativeDocumentMoniker": "coworking\\IocRegister.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\IocRegister.cs",
+              "RelativeToolTip": "coworking\\IocRegister.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwFYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:50:40.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "coworking.http",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\coworking.http",
+              "RelativeDocumentMoniker": "coworking\\coworking.http",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\coworking.http",
+              "RelativeToolTip": "coworking\\coworking.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-13T19:16:56.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RolsController.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\RolsController.cs",
+              "RelativeDocumentMoniker": "coworking\\Controllers\\RolsController.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\RolsController.cs",
+              "RelativeToolTip": "coworking\\Controllers\\RolsController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:10:43.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Rol.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Rol.cs",
               "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Rol.cs",
               "RelativeToolTip": "coworking\\Dtos\\Rol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T21:41:54.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
+              "Title": "ReservationsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Controllers\\ReservationsControllerTest.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Controllers\\ReservationsControllerTest.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Controllers\\ReservationsControllerTest.cs",
+              "RelativeToolTip": "coworking.Test\\Controllers\\ReservationsControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:48:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Controllers\\RoomsControllerTest.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Controllers\\RoomsControllerTest.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Controllers\\RoomsControllerTest.cs",
+              "RelativeToolTip": "coworking.Test\\Controllers\\RoomsControllerTest.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAADUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:34:42.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Controllers\\UnitsControllerTest.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Controllers\\UnitsControllerTest.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Controllers\\UnitsControllerTest.cs",
+              "RelativeToolTip": "coworking.Test\\Controllers\\UnitsControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:08:54.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Controllers\\EventsControllerTest.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Controllers\\EventsControllerTest.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Controllers\\EventsControllerTest.cs",
+              "RelativeToolTip": "coworking.Test\\Controllers\\EventsControllerTest.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAIwGIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:08:19.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservationServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Services\\ReservationServiceTest.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Services\\ReservationServiceTest.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Services\\ReservationServiceTest.cs",
+              "RelativeToolTip": "coworking.Test\\Services\\ReservationServiceTest.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:56:30.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoworkingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Data\\CoworkingManager.cs",
+              "RelativeDocumentMoniker": "coworking\\Data\\CoworkingManager.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Data\\CoworkingManager.cs",
+              "RelativeToolTip": "coworking\\Data\\CoworkingManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:11:09.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoworkingDbMock.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Helpers\\CoworkingDbMock.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Helpers\\CoworkingDbMock.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Helpers\\CoworkingDbMock.cs",
+              "RelativeToolTip": "coworking.Test\\Helpers\\CoworkingDbMock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:36:47.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Services\\RoomServiceTest.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Services\\RoomServiceTest.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Services\\RoomServiceTest.cs",
+              "RelativeToolTip": "coworking.Test\\Services\\RoomServiceTest.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:56:49.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "coworking\\Domain\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\ReservationService.cs",
+              "RelativeToolTip": "coworking\\Domain\\Services\\ReservationService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:58:58.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "coworking\\Domain\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\UserService.cs",
+              "RelativeToolTip": "coworking\\Domain\\Services\\UserService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:32:03.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "coworking\\Domain\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\RoomService.cs",
+              "RelativeToolTip": "coworking\\Domain\\Services\\RoomService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:58:14.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Interfaces\\Base\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Interfaces\\Base\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Interfaces\\Base\\IBaseRepository.cs",
+              "RelativeToolTip": "coworking\\UnitOfWork\\Interfaces\\Base\\IBaseRepository.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAiwD8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:35:16.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitOfWorkMock.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Helpers\\UnitOfWorkMock.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Helpers\\UnitOfWorkMock.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Helpers\\UnitOfWorkMock.cs",
+              "RelativeToolTip": "coworking.Test\\Helpers\\UnitOfWorkMock.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:37:16.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Helpers\\BaseTest.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Helpers\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Helpers\\BaseTest.cs",
+              "RelativeToolTip": "coworking.Test\\Helpers\\BaseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:36:55.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Repositories\\Base\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Repositories\\Base\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Repositories\\Base\\UnitOfWork.cs",
+              "RelativeToolTip": "coworking\\UnitOfWork\\Repositories\\Base\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:39:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Usings.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Usings.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Usings.cs",
+              "RelativeToolTip": "coworking.Test\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:33:31.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "test.runsettings",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\test.runsettings",
+              "RelativeDocumentMoniker": "coworking.Test\\test.runsettings",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\test.runsettings",
+              "RelativeToolTip": "coworking.Test\\test.runsettings",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-14T13:34:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EditBrandValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Validators\\EditBrandValidatorTest.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Validators\\EditBrandValidatorTest.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Validators\\EditBrandValidatorTest.cs",
+              "RelativeToolTip": "coworking.Test\\Validators\\EditBrandValidatorTest.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:35:23.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddEventValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Validators\\AddEventValidatorTest.cs",
+              "RelativeDocumentMoniker": "coworking.Test\\Validators\\AddEventValidatorTest.cs",
+              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking.Test\\Validators\\AddEventValidatorTest.cs",
+              "RelativeToolTip": "coworking.Test\\Validators\\AddEventValidatorTest.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAowFEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:35:06.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Policies.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Policies.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Policies.cs",
@@ -376,20 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "coworking\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "coworking\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAOYAAAAAAAAAAAAwwPgAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:33:16.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 36,
               "Title": "RolDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\RolDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\RolDto.cs",
@@ -402,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 35,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Users\\UserDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Users\\UserDto.cs",
@@ -415,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 34,
               "Title": "UserMap.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Mapper\\Profiles\\UserMap.cs",
               "RelativeDocumentMoniker": "coworking\\Mapper\\Profiles\\UserMap.cs",
@@ -428,72 +873,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "coworking\\Domain\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\UserService.cs",
-              "RelativeToolTip": "coworking\\Domain\\Services\\UserService.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAABsAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:32:03.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JwtUtils.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\JwtUtils.cs",
-              "RelativeDocumentMoniker": "coworking\\Domain\\JwtUtils.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\JwtUtils.cs",
-              "RelativeToolTip": "coworking\\Domain\\JwtUtils.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:30:43.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IocRegister.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\IocRegister.cs",
-              "RelativeDocumentMoniker": "coworking\\IocRegister.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\IocRegister.cs",
-              "RelativeToolTip": "coworking\\IocRegister.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAqwFwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:50:40.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RoomService.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\RoomService.cs",
-              "RelativeDocumentMoniker": "coworking\\Domain\\Services\\RoomService.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\RoomService.cs",
-              "RelativeToolTip": "coworking\\Domain\\Services\\RoomService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA6wBkAAAB4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:58:14.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReservationsController.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\ReservationsController.cs",
-              "RelativeDocumentMoniker": "coworking\\Controllers\\ReservationsController.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\ReservationsController.cs",
-              "RelativeToolTip": "coworking\\Controllers\\ReservationsController.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAawGgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:23:23.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 89,
               "Title": "20250113212036_RolFixed.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113212036_RolFixed.cs",
               "RelativeDocumentMoniker": "coworking\\Migrations\\20250113212036_RolFixed.cs",
@@ -506,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 32,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Repositories\\UserRepository.cs",
@@ -518,42 +898,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReservationService.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\ReservationService.cs",
-              "RelativeDocumentMoniker": "coworking\\Domain\\Services\\ReservationService.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\ReservationService.cs",
-              "RelativeToolTip": "coworking\\Domain\\Services\\ReservationService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBkAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:58:58.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseService.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\Base\\BaseService.cs",
-              "RelativeDocumentMoniker": "coworking\\Domain\\Services\\Base\\BaseService.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\Base\\BaseService.cs",
-              "RelativeToolTip": "coworking\\Domain\\Services\\Base\\BaseService.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAIA1wCkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:57:02.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 37,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Interfaces\\Base\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Interfaces\\Base\\IUnitOfWork.cs",
@@ -566,20 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Repositories\\Base\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Repositories\\Base\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Repositories\\Base\\UnitOfWork.cs",
-              "RelativeToolTip": "coworking\\UnitOfWork\\Repositories\\Base\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:39:31.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 39,
               "Title": "CreateUserDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Users\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Users\\CreateUserDto.cs",
@@ -592,7 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 33,
               "Title": "RefreshToken.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Entities\\RefreshToken.cs",
               "RelativeDocumentMoniker": "coworking\\Entities\\RefreshToken.cs",
@@ -605,7 +938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 40,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Entities\\User.cs",
               "RelativeDocumentMoniker": "coworking\\Entities\\User.cs",
@@ -618,7 +951,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 41,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Entities\\Rol.cs",
               "RelativeDocumentMoniker": "coworking\\Entities\\Rol.cs",
@@ -631,20 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CoworkingManager.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Data\\CoworkingManager.cs",
-              "RelativeDocumentMoniker": "coworking\\Data\\CoworkingManager.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Data\\CoworkingManager.cs",
-              "RelativeToolTip": "coworking\\Data\\CoworkingManager.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADgvxsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:11:09.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 38,
               "Title": "EditUserDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Users\\EditUserDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Users\\EditUserDto.cs",
@@ -657,7 +977,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 90,
               "Title": "20250113205728_RefreshToken.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113205728_RefreshToken.cs",
               "RelativeDocumentMoniker": "coworking\\Migrations\\20250113205728_RefreshToken.cs",
@@ -670,7 +990,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Helpers\\AppSettings.cs",
               "RelativeDocumentMoniker": "coworking\\Helpers\\AppSettings.cs",
@@ -683,7 +1003,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 45,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\appsettings.json",
               "RelativeDocumentMoniker": "coworking\\appsettings.json",
@@ -696,7 +1016,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 42,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Interfaces\\IUserRepository.cs",
@@ -709,20 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "coworking",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\coworking.csproj",
-              "RelativeDocumentMoniker": "coworking\\coworking.csproj",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\coworking.csproj",
-              "RelativeToolTip": "coworking\\coworking.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-13T13:00:15.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 43,
               "Title": "IRolService.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Interfaces\\IRolService.cs",
               "RelativeDocumentMoniker": "coworking\\Domain\\Interfaces\\IRolService.cs",
@@ -735,7 +1042,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 48,
               "Title": "UserLoginDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Users\\UserLoginDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Users\\UserLoginDto.cs",
@@ -748,7 +1055,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 47,
               "Title": "IRefreshTokenRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Interfaces\\IRefreshTokenRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Interfaces\\IRefreshTokenRepository.cs",
@@ -761,7 +1068,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 91,
               "Title": "20250113204401_userEmailUnique.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113204401_userEmailUnique.cs",
               "RelativeDocumentMoniker": "coworking\\Migrations\\20250113204401_userEmailUnique.cs",
@@ -774,7 +1081,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 46,
               "Title": "RefreshTokenRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Repositories\\RefreshTokenRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Repositories\\RefreshTokenRepository.cs",
@@ -787,7 +1094,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 51,
               "Title": "BasicEntity.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Entities\\BasicEntity.cs",
               "RelativeDocumentMoniker": "coworking\\Entities\\BasicEntity.cs",
@@ -800,7 +1107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 52,
               "Title": "EditReservationDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Reservations\\EditReservationDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Reservations\\EditReservationDto.cs",
@@ -813,7 +1120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 49,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Mapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "coworking\\Mapper\\MappingProfile.cs",
@@ -826,7 +1133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 50,
               "Title": "RoomMap.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Mapper\\Profiles\\RoomMap.cs",
               "RelativeDocumentMoniker": "coworking\\Mapper\\Profiles\\RoomMap.cs",
@@ -839,7 +1146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 55,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "coworking\\Domain\\Interfaces\\IUserService.cs",
@@ -852,7 +1159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 57,
               "Title": "RoomRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Repositories\\RoomRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Repositories\\RoomRepository.cs",
@@ -865,7 +1172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 54,
               "Title": "CreateRoomDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Rooms\\CreateRoomDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Rooms\\CreateRoomDto.cs",
@@ -878,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 53,
               "Title": "RoomDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Rooms\\RoomDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Rooms\\RoomDto.cs",
@@ -891,7 +1198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 59,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Program.cs",
               "RelativeDocumentMoniker": "coworking\\Program.cs",
@@ -904,20 +1211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "RoomsController.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\RoomsController.cs",
-              "RelativeDocumentMoniker": "coworking\\Controllers\\RoomsController.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\RoomsController.cs",
-              "RelativeToolTip": "coworking\\Controllers\\RoomsController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAADcAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:06:33.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 60,
               "Title": "DataSeeder.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Data\\DataSeeder.cs",
               "RelativeDocumentMoniker": "coworking\\Data\\DataSeeder.cs",
@@ -930,7 +1224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 56,
               "Title": "IRoomService.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Interfaces\\IRoomService.cs",
               "RelativeDocumentMoniker": "coworking\\Domain\\Interfaces\\IRoomService.cs",
@@ -943,33 +1237,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "RolsController.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\RolsController.cs",
-              "RelativeDocumentMoniker": "coworking\\Controllers\\RolsController.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Controllers\\RolsController.cs",
-              "RelativeToolTip": "coworking\\Controllers\\RolsController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAmwDcAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:10:43.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 64,
               "Title": "RolService.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\RolService.cs",
               "RelativeDocumentMoniker": "coworking\\Domain\\Services\\RolService.cs",
               "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Services\\RolService.cs",
               "RelativeToolTip": "coworking\\Domain\\Services\\RolService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBMwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T19:13:17.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 58,
               "Title": "IRoomRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Interfaces\\IRoomRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Interfaces\\IRoomRepository.cs",
@@ -982,7 +1263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 63,
               "Title": "IRolRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Interfaces\\IRolRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Interfaces\\IRolRepository.cs",
@@ -995,7 +1276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 62,
               "Title": "RolRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Repositories\\RolRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Repositories\\RolRepository.cs",
@@ -1008,20 +1289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "coworking.http",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\coworking.http",
-              "RelativeDocumentMoniker": "coworking\\coworking.http",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\coworking.http",
-              "RelativeToolTip": "coworking\\coworking.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-13T19:16:56.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 61,
               "Title": "RolMap.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Mapper\\Profiles\\RolMap.cs",
               "RelativeDocumentMoniker": "coworking\\Mapper\\Profiles\\RolMap.cs",
@@ -1034,7 +1302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 92,
               "Title": "20250113190539_users.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113190539_users.cs",
               "RelativeDocumentMoniker": "coworking\\Migrations\\20250113190539_users.cs",
@@ -1047,7 +1315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 67,
               "Title": "ReservationMap.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Mapper\\Profiles\\ReservationMap.cs",
               "RelativeDocumentMoniker": "coworking\\Mapper\\Profiles\\ReservationMap.cs",
@@ -1060,7 +1328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 66,
               "Title": "RoomPagedInputDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\RoomPagedInputDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\RoomPagedInputDto.cs",
@@ -1073,7 +1341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 65,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Entities\\Room.cs",
               "RelativeDocumentMoniker": "coworking\\Entities\\Room.cs",
@@ -1086,7 +1354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 68,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "coworking\\Properties\\launchSettings.json",
@@ -1099,7 +1367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 69,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Entities\\Reservation.cs",
               "RelativeDocumentMoniker": "coworking\\Entities\\Reservation.cs",
@@ -1112,7 +1380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 70,
               "Title": "EditRoomDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Rooms\\EditRoomDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Rooms\\EditRoomDto.cs",
@@ -1125,7 +1393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 71,
               "Title": "ReservationDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Reservations\\ReservationDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Reservations\\ReservationDto.cs",
@@ -1138,7 +1406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 72,
               "Title": "CreateReservationDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Reservations\\CreateReservationDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Reservations\\CreateReservationDto.cs",
@@ -1151,7 +1419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 73,
               "Title": "EntityBaseDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Base\\EntityBaseDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Base\\EntityBaseDto.cs",
@@ -1164,46 +1432,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 74,
               "Title": "IBaseService.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Interfaces\\Base\\IBaseService.cs",
               "RelativeDocumentMoniker": "coworking\\Domain\\Interfaces\\Base\\IBaseService.cs",
               "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Interfaces\\Base\\IBaseService.cs",
               "RelativeToolTip": "coworking\\Domain\\Interfaces\\Base\\IBaseService.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAewCYAAAAcAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAIA2wCYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T13:46:27.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 75,
               "Title": "PagedListInputDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Base\\PagedListInputDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Base\\PagedListInputDto.cs",
               "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Base\\PagedListInputDto.cs",
               "RelativeToolTip": "coworking\\Dtos\\Base\\PagedListInputDto.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAA0wAsAAAAWAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T13:48:36.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 76,
               "Title": "EditRoomValid.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Validators\\EditRoomValid.cs",
               "RelativeDocumentMoniker": "coworking\\Validators\\EditRoomValid.cs",
               "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Validators\\EditRoomValid.cs",
               "RelativeToolTip": "coworking\\Validators\\EditRoomValid.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBMwA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T15:47:00.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 77,
               "Title": "EditReservationValid.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Validators\\EditReservationValid.cs",
               "RelativeDocumentMoniker": "coworking\\Validators\\EditReservationValid.cs",
@@ -1216,33 +1484,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 78,
               "Title": "CreateReservationValid.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Validators\\CreateReservationValid.cs",
               "RelativeDocumentMoniker": "coworking\\Validators\\CreateReservationValid.cs",
               "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Validators\\CreateReservationValid.cs",
               "RelativeToolTip": "coworking\\Validators\\CreateReservationValid.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABcAAAAcAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAIBMwBcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T15:47:12.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 79,
               "Title": "CreateRoomValid.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Validators\\CreateRoomValid.cs",
               "RelativeDocumentMoniker": "coworking\\Validators\\CreateRoomValid.cs",
               "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Validators\\CreateRoomValid.cs",
               "RelativeToolTip": "coworking\\Validators\\CreateRoomValid.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAgAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAABSwBcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T15:44:07.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 93,
               "Title": "20250113153714_Log.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113153714_Log.cs",
               "RelativeDocumentMoniker": "coworking\\Migrations\\20250113153714_Log.cs",
@@ -1255,7 +1523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 80,
               "Title": "ILogRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Interfaces\\ILogRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Interfaces\\ILogRepository.cs",
@@ -1268,7 +1536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 81,
               "Title": "LogRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Repositories\\LogRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Repositories\\LogRepository.cs",
@@ -1281,7 +1549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 82,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Repositories\\Base\\BaseRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Repositories\\Base\\BaseRepository.cs",
@@ -1294,7 +1562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 83,
               "Title": "Log.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Entities\\Log.cs",
               "RelativeDocumentMoniker": "coworking\\Entities\\Log.cs",
@@ -1307,7 +1575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 84,
               "Title": "IReservationService.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Domain\\Interfaces\\IReservationService.cs",
               "RelativeDocumentMoniker": "coworking\\Domain\\Interfaces\\IReservationService.cs",
@@ -1320,7 +1588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 85,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Base\\ResponseDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Base\\ResponseDto.cs",
@@ -1333,7 +1601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 86,
               "Title": "PagedResultDto.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Dtos\\Base\\PagedResultDto.cs",
               "RelativeDocumentMoniker": "coworking\\Dtos\\Base\\PagedResultDto.cs",
@@ -1346,7 +1614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 87,
               "Title": "ReservationRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Repositories\\ReservationRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Repositories\\ReservationRepository.cs",
@@ -1359,20 +1627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Interfaces\\Base\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Interfaces\\Base\\IBaseRepository.cs",
-              "ToolTip": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Interfaces\\Base\\IBaseRepository.cs",
-              "RelativeToolTip": "coworking\\UnitOfWork\\Interfaces\\Base\\IBaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:35:16.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 88,
               "Title": "IReservationRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\UnitOfWork\\Interfaces\\IReservationRepository.cs",
               "RelativeDocumentMoniker": "coworking\\UnitOfWork\\Interfaces\\IReservationRepository.cs",
@@ -1385,7 +1640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 94,
               "Title": "20250113133208_initial.cs",
               "DocumentMoniker": "C:\\Users\\Anniel\\source\\repos\\coworking\\coworking\\Migrations\\20250113133208_initial.cs",
               "RelativeDocumentMoniker": "coworking\\Migrations\\20250113133208_initial.cs",

@@ -29,18 +29,14 @@ namespace coworking.Controllers
         private string username; 
         private readonly IJwtUtils _jwtUtils;
 
-        //public UsersController(ILogger<UsersController> logger)
-        //{
-        //    _logger = logger;
-        //}
+      
 
         public UsersController(IUserService UserService, IMapper mapper, IHttpContextAccessor httpContext, IBackgroundJobClient clientHangfire, IJwtUtils jwtUtils)
         {
             _UserService = UserService;
             _mapper = mapper;
             //this.httpContext = httpContext;
-            //this.clientHangfire = clientHangfire;
-            username = "A"; // httpContext.HttpContext?.User.FindFirst("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")?.Value;
+            username = httpContext.HttpContext?.User.FindFirst("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")?.Value ?? "";
             _clientHangfire = clientHangfire;
             _jwtUtils = jwtUtils;
            

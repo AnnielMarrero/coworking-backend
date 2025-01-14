@@ -17,7 +17,7 @@ namespace coworking.Controllers
     [Route("[controller]")]
     public class ReservationsController : ControllerBase
     {
-        
+       
         //private readonly ILogger<ReservationsController> _logger;
         private readonly IReservationService _reservationService;
         private readonly IMapper _mapper;
@@ -35,7 +35,7 @@ namespace coworking.Controllers
             _mapper = mapper;
             //this.httpContext = httpContext;
             _clientHangfire = clientHangfire;
-            username = "A"; //httpContext.HttpContext?.User.FindFirst("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")?.Value;
+            username = httpContext.HttpContext?.User.FindFirst("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")?.Value ?? "";
 
         }
 
@@ -102,7 +102,7 @@ namespace coworking.Controllers
         /// <response code="400">Bad Request. Get error message</response>
 
         [HttpPost("[action]")]
-        [Authorize(Policy = "admin_policy")]
+        [Authorize(Roles = "2")] //admin role
         public virtual async Task<IActionResult> Create([FromBody] CreateReservationDto createDto)
         {
             try

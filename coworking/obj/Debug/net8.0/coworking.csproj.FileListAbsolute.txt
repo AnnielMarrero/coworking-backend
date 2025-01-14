@@ -193,3 +193,4 @@ C:\Users\Anniel\source\repos\coworking\coworking\bin\Debug\net8.0\FluentValidati
 C:\Users\Anniel\source\repos\coworking\coworking\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Anniel\source\repos\coworking\coworking\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\Anniel\source\repos\coworking\coworking\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Anniel\source\repos\coworking\coworking\obj\Debug\net8.0\coworking.sourcelink.json

@@ -87,10 +87,10 @@ namespace coworking.Domain.Services.Base
             if (isNewElement)
             {
                 entity.CreatedAt = DateTime.Now;
-                //entity.CreatedBy = userName;
+                entity.CreatedBy = userName;
             }
             entity.UpdatedAt = DateTime.Now;
-            //entity.UpdatedBy = userName;
+            entity.UpdatedBy = userName;
             return entity;
         }
 

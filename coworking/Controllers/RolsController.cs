@@ -36,7 +36,7 @@ namespace coworking.Controllers
             _mapper = mapper;
             //this.httpContext = httpContext;
             //this.clientHangfire = clientHangfire;
-            username = "A"; // httpContext.HttpContext?.User.FindFirst("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")?.Value;
+            username = httpContext.HttpContext?.User.FindFirst("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")?.Value ?? "";
             _clientHangfire = clientHangfire;
 
         }

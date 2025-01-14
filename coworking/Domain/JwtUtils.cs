@@ -39,8 +39,8 @@ public class JwtUtils : IJwtUtils
             RefreshTokenValue = Guid.NewGuid().ToString("N"), //32 digits
             Used = false,
             UserId = user.Id,
-            CreatedBy = "A",
-            UpdatedBy = "A"
+            CreatedBy = user.Email,
+            UpdatedBy = user.Email
         };
 
         //saved

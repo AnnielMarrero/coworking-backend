@@ -1,6 +1,12 @@
 @coworking_HostAddress = http://localhost:5281
 
-GET {{coworking_HostAddress}}/weatherforecast/
+GET {{coworking_HostAddress}}/Reservations/GetAllPaginated/
 Accept: application/json
 
 ###
+
+GET {{coworking_HostAddress}}/Rooms/GetAllPaginated/
+Accept: application/json
+
+###
+

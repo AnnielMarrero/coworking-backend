@@ -5,8 +5,8 @@ namespace coworking.Dtos
     public enum RolEnum
     {
         [Display(Name = "Admin")]
-        ADMIN,
+        ADMIN = 2,
         [Display(Name = "Estandar")]
-        ESTANDAR
+        ESTANDAR =1
     }
 }

@@ -25,18 +25,15 @@ namespace coworking.Controllers
         private readonly IBackgroundJobClient _clientHangfire;
         private string username; 
 
-        //public RoomsController(ILogger<RoomsController> logger)
-        //{
-        //    _logger = logger;
-        //}
+       
 
         public RoomsController(IRoomService roomService, IMapper mapper, IHttpContextAccessor httpContext, IBackgroundJobClient clientHangfire)
         {
             _roomService = roomService;
             _mapper = mapper;
             //this.httpContext = httpContext;
-            //this.clientHangfire = clientHangfire;
-            username = "A"; // httpContext.HttpContext?.User.FindFirst("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")?.Value;
+            
+            username = httpContext.HttpContext?.User.FindFirst("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")?.Value ?? "";
             _clientHangfire = clientHangfire;
 
         }
